@@ -1,4 +1,4 @@
-Manual de Instalación: Pasos para Ejecutar la Aplicación 🚀
+Manual de Instalación: Pasos para Ejecutar la Aplicación 
 
 1. Dependencias (Prerrequisitos)
 
